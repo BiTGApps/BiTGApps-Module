@@ -1,6 +1,6 @@
 {
-  "versionCode": "10",
-  "version": "v1.0",
-  "zipUrl": "https://github.com/BiTGApps/microG-Installer/releases/download/v1.0/MicroG-v1.0.zip",
+  "versionCode": "11",
+  "version": "v1.1",
+  "zipUrl": "https://github.com/BiTGApps/microG-Installer/releases/download/v1.1/MicroG-v1.1.zip",
   "changelog": "https://raw.githubusercontent.com/BiTGApps/BiTGApps-Release/master/changelog.md"
 }
