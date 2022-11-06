@@ -1,11 +1,11 @@
 # This file is part of The BiTGApps Project
 
 # General Revision
-CURRENT='v1.5'
-RELEASE='v1.6'
+CURRENT='v1.6'
+RELEASE='v1.7'
 # Release Version
-OLD_VER='"15",'
-CUR_VER='"16",'
+OLD_VER='"16",'
+CUR_VER='"17",'
 
 # Update JSON
 sed -i -e "s/$CURRENT/$RELEASE/g" */module.json
